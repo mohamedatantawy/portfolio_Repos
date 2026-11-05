@@ -45,9 +45,9 @@ You never need to touch any other file to update content.
 // data/data.js
 export const PORTFOLIO = {
   owner: {
-    nameEn: "Ahmed",        // ← change your name
-    email:  "you@example.com",
-    github: "https://github.com/yourname",
+    nameEn: "Mohamed tantawy",        // ← change your name
+    email:  "tantawymo2003@example.com",
+    github: "https://github.com/mohamedatantawy",
     ...
   },
   projects: [
